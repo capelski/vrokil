@@ -211,7 +211,7 @@ div[id*="tab"]:nth-child(even) {
 }
 
 .bg-apartment {    
-    background-image: url('../images/bg-apartment.jpg');
+    background-image: url('/images/bg-apartment.jpg?$modena=vrokil');
     background-size: auto 100%;
     background-position: 50%;
     background-repeat: no-repeat;
